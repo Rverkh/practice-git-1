@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Задание на понимание Index
+Задание на понимание Index1
